@@ -1,0 +1,26 @@
+_repo: Selected-Articles-on-the-Parcels-Post_52996
+_version: 0.0.1
+contributor:
+  compiler:
+    agent_name: Phelps, Edith M.
+    birthdate: 1881
+    deathdate: 1980
+    gutenberg_agent_id: '47159'
+    url: http://www.gutenberg.org/2009/agents/47159
+description: ''
+gutenberg_issued: '2016-09-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52996'
+  lccn: '11035968'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Debaters' Handbook Series
+subjects:
+- !lcsh 'Parcel post -- United States'
+- !lcc 'HE'
+- GITenberg
+title: Selected Articles on the Parcels Post
+url: http://www.gutenberg.org/ebooks/52996
