@@ -1,5 +1,5 @@
 _repo: Selected-Articles-on-the-Parcels-Post_52996
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   compiler:
     agent_name: Phelps, Edith M.
@@ -7,7 +7,12 @@ contributor:
     deathdate: 1980
     gutenberg_agent_id: '47159'
     url: http://www.gutenberg.org/2009/agents/47159
+covers:
+- cover_type: archival
+  image_path: 52996-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52996#Selected-Articles-on-the-Parcels-Post
 gutenberg_issued: '2016-09-06'
 gutenberg_type: Text
 identifiers:
